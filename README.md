@@ -17,7 +17,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/NoNeedToSleep/note-reminder-bot.git
-   cd your-repo
+   cd note-reminder-bot
    ```
 2. Установите зависимости:
    ```bash
